@@ -47,7 +47,7 @@ invoice-app/
 ### Backend Setup
 1. Navigate to the backend directory
 2. Run: `mvn spring-boot:run`
-3. Backend will start on `http://localhost:8080`
+3. Backend will start on `http://localhost:8888`
 
 ### Frontend Setup
 1. Navigate to the frontend directory
