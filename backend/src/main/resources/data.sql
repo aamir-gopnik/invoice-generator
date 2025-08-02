@@ -1,3 +1,6 @@
+------------------------------------ INSERT QUERIES ---------------------------------------
+-------------------------------------------------------------------------------------------
+
 -- Insert sample customers
 INSERT INTO customers (name, email, phone_number, address, city, state, zip_code, country, created_at, updated_at) VALUES
 ('John Doe', 'john.doe@example.com', '555-0123', '123 Main St', 'Anytown', 'CA', '12345', 'USA', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
